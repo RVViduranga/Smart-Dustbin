@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\Debug\ultrasonic.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ultrasonic.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ultrasonic.map</FILE>
+  <FILE>ultrasonic.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>17</LINE></start>
+  <delay_timer0><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>99</LINE></delay_timer0>
+  <echo_PW><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>68</LINE></echo_PW>
+  <con><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>40</LINE></con>
+  <delay_ms><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>120</LINE></delay_ms>
+  <low0><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>50</LINE></low0>
+  <con2><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>45</LINE></con2>
+  <mid60><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>55</LINE></mid60>
+  <hig100><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>60</LINE></hig100>
+  <l1><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>75</LINE></l1>
+  <l2><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>85</LINE></l2>
+  <l0><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>108</LINE></l0>
+  <l6><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>123</LINE></l6>
+  <l7><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>124</LINE></l7>
+  <l8><FILE>C:\Users\jkcar\OneDrive\Desktop\Smart_Dustbin\final\ultrasonic\ultrasonic\main.asm</FILE><LINE>125</LINE></l8>
+ </LABELS>
+</ASSEMBLER_INFO>
